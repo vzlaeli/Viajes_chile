@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a img{
+    width: 10%;
+    height: 10%;    
+}
+
+a .navbar-brand{
+    float:left;
+}
+
+.header {
+    background-color: transparent !important;
+  }
