@@ -15,3 +15,53 @@ a .navbar-brand{
 .header {
     background-color: transparent !important;
   }
+
+  #Destacados{
+    background-color: #000000;
+    padding: 30px;
+  }
+
+  #Contacto{
+    background-color: #000000;
+    padding: 30px;
+  }
+
+  #Quienes{
+    background-color: #000000;
+    padding: 40px;
+  }
+
+  footer{
+    background-color: #31C4EA;
+    padding: 40px;
+  }
+
+  .fa-plane {
+    color: #FFFFFF;
+    position: relative;
+    left: 50%;
+  }
+
+  .fa-mountain {
+    color: #FFFFFF;
+    position: relative;
+    left: 50%;
+  }
+
+  .fa-location-dot {
+    color: #FFFFFF;
+    position: relative;
+    left: 50%;
+  }
+
+  button{
+    position: relative;
+    right: 96%; 
+    background-color: #31C4EA !important;
+  }
+
+  @media (max-width: 768px) {
+    #Contacto form label {
+    }
+    }
+    
